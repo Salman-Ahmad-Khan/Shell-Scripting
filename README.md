@@ -1,3 +1,4 @@
+<html>
 # Bash Scripting <br>
 
 ## Bash Shell Scripting <br> 
@@ -17,3 +18,4 @@ Scripting allows for an automatic commands execution that would otherwise be exe
 Now, imagine that the execution of all the above commands is your daily task. Every day you are required to execute all of the above commands without fail as well as store the observed information. Soon enough this will become an extremely tedious task destined for failure. Thus the obvious notion is to think of some way to execute all given commands together. This is where scripting becomes your salvation. <br>
 
 To see what is meant by scripting, use shell in combination with your favorite text editor eg. vi to create a new file called task.sh containing all the above commands, each on a separate line. Once ready, make your new file executable using chmod command with an option +x. Lastly, execute your new script by prefixing its name with <span color="red">./</span>.
+</html>
