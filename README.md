@@ -40,6 +40,6 @@ As you can see, by use of scripting, any shell interaction can be automated and 
 ### Script Execution
 Next, let’s talk about an alternative way on how to run bash scripts. In a highly simplistic view, a bash script is nothing else just a text file containing instructions to be executed in order from top to bottom. How the instructions are interpreted depends on defined shebang or the way the script is executed. <br>
 
-Another way to execute bash scripts is to call bash interpreter explicitly eg. $ bash date.sh, hence executing the script without the need to make the shell script executable and without declaring shebang directly within a shell script. By calling bash executable binary explicitly, the content of our file date.sh is loaded and interpreted as Bash Shell Script. <br>
+Another way to execute bash scripts is to call bash interpreter explicitly eg. $ bash date.sh, hence executing the script without the need to make the shell script executable and without declaring shebang directly within a shell script. By calling bash executable binary explicitly, the content of our file ```date.sh``` is loaded and interpreted as Bash Shell Script. <br>
 
 
