@@ -1,4 +1,5 @@
-#!/bin/bash
+# @Salman
+#! /bin/bash
 
 : 'Append to File:
 New data can be added into any existing file by using ‘>>’ operator in bash. Create a file named ‘appendFile.sh’ and add the following code to add new content at the end of the file. Here,

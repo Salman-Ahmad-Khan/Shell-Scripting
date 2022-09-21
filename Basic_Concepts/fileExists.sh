@@ -1,4 +1,5 @@
-#!/bin/bash
+# @Salman
+#! /bin/bash
 
 : 'Test if File Exist:
 You can check the existence of file in bash by using ‘-e’ or ‘-f’ option. ‘-f’ option is used in the following script to test the file existence. Create a file named, ‘fileExist.sh’ and add the following code. Here, the filename will pass from the command line.
